@@ -11,22 +11,6 @@ Bilingual Arabic/English property-management SaaS for the MENA region.
 
 ---
 
-## Repositories
-
-| Repo | Description | Status |
-|---|---|---|
-| [`maqar-design-kit`](https://github.com/maqar-io/maqar-design-kit) | Bilingual AR/EN design system — 38 React components, tokens, UI kits | Public |
-
-More repositories coming soon.
-
----
-
-## Built by
-
-Maqar is a product of [**Jax Development LLC**](https://github.com/jax-development).
-
----
-
 <div align="center">
   <sub>© 2026 Jax Development LLC</sub>
 </div>
